@@ -9,4 +9,6 @@ First approach:
 
 - Use qualcom's SDK
 
+Designing a fluent API for retrieving the twitter output stream.
+
 

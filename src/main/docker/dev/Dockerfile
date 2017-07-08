@@ -6,6 +6,8 @@ ADD *.war /jhipster-registry.war
 # Add OpenSSH
 RUN apk update && apk add openssh && rm -rf /var/cache/apk/*
 
+#kubernetes support
+
 EXPOSE 8761
 VOLUME /tmp
 
